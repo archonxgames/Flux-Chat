@@ -1,7 +1,6 @@
 package com.genesiscorporation.fluxchat;
 
 import java.net.URI;
-import java.time.Instant;
 
 import org.eclipse.jetty.util.ssl.SslContextFactory;
 import org.eclipse.jetty.websocket.api.RemoteEndpoint;
