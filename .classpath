@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/jetty-http-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/jetty-io-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/jetty-security-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/jetty-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/jetty-servlet-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/jetty-util-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/JSON.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/slf4j-simple-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/websocket-api-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/websocket-client-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/websocket-common-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/webSockets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/websocket-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Max/eclipse-workspace/DiscordBot/libraries/websocket-servlet-9.3.6.v20151106.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
